@@ -1,6 +1,6 @@
 # job-tweet-classifier
 
-A binary classification model adapted from [Understanding Discourse on Work and Job-Related Well-Being in Public Social Media](https://www.aclweb.org/anthology/P/P16/P16-1099.pdf) [bibtex](http://www.aclweb.org/anthology/P/P16/P16-1099.bib).
+A binary classification model adapted from [Understanding Discourse on Work and Job-Related Well-Being in Public Social Media](https://www.aclweb.org/anthology/P/P16/P16-1099.pdf) [\[bibtex\]](http://www.aclweb.org/anthology/P/P16/P16-1099.bib).
 
 ## Setup
 
