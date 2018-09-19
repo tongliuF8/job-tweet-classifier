@@ -6,10 +6,10 @@ def main():
     vectorizer = joblib.load('model/C4_new_vectorizer.pkl')
     clf = joblib.load('model/C4_new_f1_SVC.pkl')
 
-    message1 = 'dont put that on ur resume for a minimum wage job'
-    message2 = 'hello world!'
+    tweet1 = 'dont put that on ur resume for a minimum wage job'
+    tweet2 = 'hello world!'
 
-    test_X = vectorizer.transform([message1, message2])
+    test_X = vectorizer.transform([tweet1, tweet2])
     y_pred_class = clf.predict(test_X)
 
     for pred in y_pred_class:
