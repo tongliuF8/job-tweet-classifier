@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 ## Usage
 ### Input
-Test with the example tweets (*message1/2*), or enter your tweets
+Test with the example tweets (*message1/2*), or enter as many tweets as you want.
 
 ### Syntax
 ```
